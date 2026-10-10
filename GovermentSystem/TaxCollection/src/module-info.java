@@ -1,0 +1,3 @@
+module TaxCollection {
+    exports OnlineTax;
+}
